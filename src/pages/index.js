@@ -24,6 +24,14 @@ export default (() => {
 				asdasdsad
 			</Override>
 		</Components.QuarklycommunityKitCarousel>
+		<Components.QuarklycommunityKitCarousel>
+			<Override slot="Slide Text 1">
+				dsadsadasdasdasdasd
+			</Override>
+			<Override slot="Slide Head 1">
+				asdasdsad
+			</Override>
+		</Components.QuarklycommunityKitCarousel>
 		<Link
 			font={"--capture"}
 			font-size={"10px"}
